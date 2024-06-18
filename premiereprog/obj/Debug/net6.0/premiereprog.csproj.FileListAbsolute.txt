@@ -1,0 +1,14 @@
+E:\developpements\C#\premiereprog\premiereprog\bin\Debug\net6.0\premiereprog.exe
+E:\developpements\C#\premiereprog\premiereprog\bin\Debug\net6.0\premiereprog.deps.json
+E:\developpements\C#\premiereprog\premiereprog\bin\Debug\net6.0\premiereprog.runtimeconfig.json
+E:\developpements\C#\premiereprog\premiereprog\bin\Debug\net6.0\premiereprog.dll
+E:\developpements\C#\premiereprog\premiereprog\bin\Debug\net6.0\premiereprog.pdb
+E:\developpements\C#\premiereprog\premiereprog\obj\Debug\net6.0\premiereprog.GeneratedMSBuildEditorConfig.editorconfig
+E:\developpements\C#\premiereprog\premiereprog\obj\Debug\net6.0\premiereprog.AssemblyInfoInputs.cache
+E:\developpements\C#\premiereprog\premiereprog\obj\Debug\net6.0\premiereprog.AssemblyInfo.cs
+E:\developpements\C#\premiereprog\premiereprog\obj\Debug\net6.0\premiereprog.csproj.CoreCompileInputs.cache
+E:\developpements\C#\premiereprog\premiereprog\obj\Debug\net6.0\premiereprog.dll
+E:\developpements\C#\premiereprog\premiereprog\obj\Debug\net6.0\refint\premiereprog.dll
+E:\developpements\C#\premiereprog\premiereprog\obj\Debug\net6.0\premiereprog.pdb
+E:\developpements\C#\premiereprog\premiereprog\obj\Debug\net6.0\premiereprog.genruntimeconfig.cache
+E:\developpements\C#\premiereprog\premiereprog\obj\Debug\net6.0\ref\premiereprog.dll
